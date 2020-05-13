@@ -9,7 +9,7 @@ n=sc.nextInt();
 for(i=1;i<n;i++)
 {
  if(i+(n-i)==n)
- { System.out.println(i+"+"+(n-i)+" ="+n);
+ { 
   count++;}
 }
 
